@@ -79,6 +79,8 @@ nodeenv==1.6.0
     # via pre-commit
 packaging==21.3
     # via sphinx
+passlib==1.7.4
+    # via -r requirements-dev.in
 pathspec==0.9.0
     # via black
 pep517==0.12.0
